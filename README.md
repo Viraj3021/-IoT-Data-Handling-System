@@ -7,6 +7,10 @@ Description:
 - Clone the repository:
 
 - Install dependencies:
+    
+    ```bash
+    $ pip install hbmqtt paho-mqtt asyncio
+    ```
 
 - Setup Instructions:
     pip install -r requirements.txt
@@ -14,8 +18,3 @@ Description:
 - Run the Python service:
     python mqtt_service.py
 
-- Install packages:
-    
-    ```bash
-    $ pip install hbmqtt paho-mqtt asyncio
-    ```
