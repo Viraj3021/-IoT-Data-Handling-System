@@ -13,8 +13,12 @@ Description:
     ```
 
 - Setup Instructions:
-    pip install -r requirements.txt
+  ```
+   $ pip install -r requirements.txt
+  ```
 
 - Run the Python service:
-    python mqtt_service.py
+  ```
+   $ python mqtt_service.py
+  ```
 
