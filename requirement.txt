@@ -1,0 +1,5 @@
+pip==23.2.1
+logging==0.4.9.6
+asyncio==3.4.3
+hbmqtt==0.9.6
+pymongo=4.6.3
